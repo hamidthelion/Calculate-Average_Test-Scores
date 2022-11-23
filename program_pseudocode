@@ -1,0 +1,26 @@
+// get first test score //
+Display "Enter the first test score."
+Input Test 1
+
+// get second test score //
+Display "Enter the second test score."
+Input Test 2
+
+// get third test score //
+Display Enter the third test score."
+Input Test 3
+
+// calculate average by adding up the three test scores and dividing the sum by 3 //
+Set average = (test1 + test2 + test3) / 3
+
+// display the average //
+display "The average test score is ", average
+
+// Program Output Example //
+Enter the first test score. 
+_90_ [enter]
+Enter the second test score. 
+_80_ [enter]
+Enter the third test score. 
+_100_ [enter]
+The average score is 90
